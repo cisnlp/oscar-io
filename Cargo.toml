@@ -2,9 +2,9 @@
 name = "oscar-io"
 version = "0.2.4"
 edition = "2021"
-description = "Readers/Writers for OSCAR Corpora."
-documentation = "https://docs.rs/oscar-io"
-homepage = "https://oscar-corpus.com"
+description = "Readers/Writers for GlotCC/OSCAR Corpora."
+documentation = "https://github.com/cisnlp/oscar-io/blob/main/README.md"
+homepage = "https://github.com/cisnlp/oscar-io"
 repository = "https://github.com/oscar-corpus/oscar-io"
 license = "Apache-2.0"
 
